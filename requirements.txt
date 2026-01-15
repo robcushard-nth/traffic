@@ -1,6 +1,6 @@
-{streamlit\
-simpy\
-plotly\
-pandas\
-google-generativeai\
-matplotlib}
+streamlit
+simpy
+plotly
+pandas
+google-generativeai
+matplotlib
